@@ -1,5 +1,5 @@
 # MDB Blank Theme for OctoberCMS
-Free Modern and Clean OctoberCMS Theme based on [MDBootstrap](https://mdbootstrap.com/material-design-for-bootstrap/?utm_source=4e323a&utm_id=4e323a) (Material Design for Bootstrap) which is a powerful CSS Framework coupled with the best of *Bootstrap* and *Material Design*. 
+Free Modern and Clean OctoberCMS Theme based on [MDBootstrap](https://mdbootstrap.com/material-design-for-bootstrap/?utm_ref_id=22105) (Material Design for Bootstrap) which is a powerful CSS Framework coupled with the best of *Bootstrap* and *Material Design*. 
 
 - 400+ material UI elements
 - 600+ material icons 
@@ -11,4 +11,4 @@ Free Modern and Clean OctoberCMS Theme based on [MDBootstrap](https://mdbootstra
 All fully responsive. All compatible with different browsers.
 
 ### Documentation
-Full documentation can be found on the [MDBootstrap](https://mdbootstrap.com/material-design-for-bootstrap/?utm_source=4e323a&utm_id=4e323a) website.
+Full documentation can be found on the [MDBootstrap](https://mdbootstrap.com/material-design-for-bootstrap/?utm_ref_id=22105) website.
